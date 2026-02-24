@@ -23,10 +23,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealyStupid&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RealyStupid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+
+  <!-- FIXED: GitHub Readme Stats (mirror) -->
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=RealyStupid&locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RealyStupid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+
+  <!-- Streak Stats (already stable) -->
   <img src="https://streak-stats.demolab.com?user=RealyStupid&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="151" alt="streak graph" /> <br>
+
+  <!-- Activity Graph (stable mirror) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealyStupid&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 </div>
 
 ###
@@ -35,7 +43,9 @@
 
 ###
 
-<p align="left">The Everything Bot: https://github.com/RealyStupid/Everything-Bot<br>The Everything Bot is a program that lets you sync commands with its custom sync engine. It allows the developer to assign "modules" to their slash commands and enable/disable them using the given commands within the "core" module.</p>
+[The Everything Bot](https://github.com/RealyStupid/Everything-Bot)
+
+The Everything Bot is a modular Discord bot built around a custom command‑sync engine that gives developers full control over how features are organized and deployed. Each feature is packaged as an independent module, allowing servers to enable or disable functionality dynamically without touching the core codebase. The bot automatically registers, updates, and removes slash commands based on the modules a server has active, keeping command lists clean, efficient, and tailored to each community.
 
 ###
 
@@ -57,8 +67,16 @@
 
 - Creating clean, readable code
 - Creating scalable bots
-- ability to create advanced syncing systems
-- the ability to garner a community
+- Ability to create advanced syncing systems
+- The ability to garner a community
+
+###
+
+<h2 align="center">Languages Breakdown</h2>
+
+- **Python** - Main language, used for all bot development
+- **Git & GitHub** - Version control, CI/CD, automation
+- **Discord.py** - The main package used to make the bots
 
 ###
 
