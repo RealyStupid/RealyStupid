@@ -23,18 +23,10 @@
 ###
 
 <div align="center">
-
-  <!-- FIXED: GitHub Readme Stats (mirror) -->
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=RealyStupid&locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RealyStupid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-
-  <!-- Streak Stats (already stable) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealyStupid&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RealyStupid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=RealyStupid&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="151" alt="streak graph" /> <br>
-
-  <!-- Activity Graph (stable mirror) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealyStupid&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
-
 </div>
 
 ###
@@ -67,8 +59,8 @@ The Everything Bot is a modular Discord bot built around a custom command‑sync
 
 - Creating clean, readable code
 - Creating scalable bots
-- Ability to create advanced syncing systems
-- The ability to garner a community
+- ability to create advanced syncing systems
+- the ability to garner a community
 
 ###
 
