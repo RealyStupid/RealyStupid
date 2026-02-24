@@ -1,2 +1,2 @@
 # Wassup
-im (RealyStupid)[https://github.com/RealyStupid]
+im {RealyStupid}[https://github.com/RealyStupid]
