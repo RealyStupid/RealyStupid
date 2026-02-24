@@ -5,4 +5,4 @@ I mostly program in Python.
 ---
 ## stuff I'm proud of:
 
-[![Everything Bot](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=RealyStupid&repo=Everything-Bot)](https://github.com/RealyStupid/Everything-Bot)
+[![Everything Bot](https://github-readme-stats.vercel.app/api/pin/?username=RealyStupid&repo=Everything-Bot&v=1)](https://github.com/RealyStupid/Everything-Bot)
