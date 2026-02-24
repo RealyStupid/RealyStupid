@@ -1,4 +1,4 @@
-<h1 align="center">~~~~~~~~~~~~Hello World~~~~~~~~~~~~</h1>
+<h1 align="center">~~~~~~~~~~~| Hello World! |~~~~~~~~~~~</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Account overview:</h2>
+<h2 align="center">Account Overview:</h2>
 
 ###
 
@@ -40,6 +40,25 @@
 ###
 
 <img src="https://raw.githubusercontent.com/RealyStupid/RealyStupid/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">What I'm Working On</h2>
+
+###
+
+<p align="left">nothing right now.....</p>
+
+###
+
+<h2 align="center">Skills & Expertise</h2>
+
+###
+
+- Creating clean, readable code
+- Creating scalable bots
+- ability to create advanced syncing systems
+- the ability to garner a community
 
 ###
 
