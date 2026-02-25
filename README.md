@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Featured Projects:</h4>
+<h4 align="center">Featured Projects:</h4>
 
 ###
 
