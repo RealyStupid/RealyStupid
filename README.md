@@ -34,6 +34,13 @@
 
 The Everything Bot is a modular Discord bot built around a custom command‑sync engine that gives developers full control over how features are organized and deployed. Each feature is packaged as an independent module, allowing servers to enable or disable functionality dynamically without touching the core codebase. The bot automatically registers, updates, and removes slash commands based on the modules a server has active, keeping command lists clean, efficient, and tailored to each community.
 
+<div align="center">
+  <a href="https://github.com/RealyStupid/Everything-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RealyStupid&repo=Everything-Bot&theme=gotham" />
+  </a>
+</div>
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/RealyStupid/RealyStupid/output/snake.svg" alt="Snake animation" />
@@ -54,8 +61,12 @@ Nothing right now, but I am trying to look for people to collaborate with to cre
 
 - Creating clean, readable code
 - Creating scalable bots
-- ability to create advanced syncing systems
-- the ability to garner a community
+- Ability to create advanced syncing systems
+- The ability to garner a community via discord
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,visualstudio" />
+</div>
 
 ###
 
@@ -64,14 +75,6 @@ Nothing right now, but I am trying to look for people to collaborate with to cre
 - **Python** - Main language, used for all bot development
 - **Git & GitHub** - Version control, CI/CD, automation
 - **Discord.py** - The main package used to make the bots
-
-###
-
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,visualstudio" />
-</div>
 
 ###
 
