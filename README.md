@@ -20,6 +20,10 @@
   <img src="https://streak-stats.demolab.com?user=RealyStupid&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealyStupid&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ###
 
 <h2 align="center">Featured Projects:</h2>
@@ -55,12 +59,6 @@ Nothing right now, but I am trying to look for people to collaborate with to cre
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealyStupid&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="center">Languages Breakdown</h2>
 
 - **Python** - Main language, used for all bot development
@@ -73,6 +71,17 @@ Nothing right now, but I am trying to look for people to collaborate with to cre
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,visualstudio" />
+</div>
+
+###
+
+<h2 align="center">Connect With Me</h2>
+
+<div align="center">
+  <a href="https://discord.gg/bsyHm2aYcc">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+    <p>Find me on my disocrd server!</p>
+  </a>
 </div>
 
 ###
