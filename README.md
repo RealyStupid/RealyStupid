@@ -23,6 +23,12 @@
 ###
 
 <div align="center">
+  <img src="https://lanyard.cnrad.dev/api/1469002358850584781" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=RealyStupid&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
