@@ -6,18 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="40" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
-</div>
-
-###
-
 <h2 align="center">Account Overview:</h2>
 
 ###
@@ -78,6 +66,14 @@ Nothing right now, but I am trying to look for people to collaborate with to cre
 - **Python** - Main language, used for all bot development
 - **Git & GitHub** - Version control, CI/CD, automation
 - **Discord.py** - The main package used to make the bots
+
+###
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,visualstudio" />
+</div>
 
 ###
 
