@@ -46,7 +46,7 @@ The Everything Bot is a modular Discord bot built around a custom command‑sync
 
 ###
 
-<p align="left">nothing right now.....</p>
+Nothing right now, but I am trying to look for people to collaborate with to create a huge Discord bot!
 
 ###
 
