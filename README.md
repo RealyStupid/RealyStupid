@@ -59,7 +59,7 @@ Each feature is packaged as an independent module, allowing servers to enable or
 
 <h2 align="center">What I'm Working On</h2>
 
-Currently working on a "All in One Bot". it is a private repository and cannot be found right now. There is no plan right now to make it public.
+Currently working on an "All in One Bot". It is a private repository and cannot be found right now. There is no plan right now to make it public until it is ready.
 
 <br>
 
