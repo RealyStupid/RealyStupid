@@ -86,11 +86,12 @@ Currently working on an "All-in-One Bot". It is a private repository and cannot 
 
 <br>
 
-<h2 align="center">Languages Breakdown</h2>
+<h2 align="center">Tech Stack Overview</h2>
 
 - **Python** — Main language for all bot development  
-- **Git & GitHub** — Version control, CI/CD, automation  
-- **Discord.py** — Core framework for bot creation  
+- **Git & GitHub** - Version control, CI/CD, automation  
+- **Discord.py** - Core framework for bot creation  
+- **SQlite and AIOSQlite** - Some databases
 
 <br>
 
