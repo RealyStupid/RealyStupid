@@ -31,10 +31,6 @@ I love diving deep into technical challenges, designing clean architectures, and
 
 <h2 align="center">Account Overview</h2>
 
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1469002358850584781" />
-</div>
-
 <br>
 
 <div align="center">
@@ -59,7 +55,11 @@ Each feature is packaged as an independent module, allowing servers to enable or
 
 <h2 align="center">What I'm Working On</h2>
 
-Currently working on an "All in One Bot". It is a private repository and cannot be found right now. There is no plan right now to make it public until it is ready.
+Currently working on an "All-in-One Bot". It is a private repository and cannot be found at the moment. There is no plan right now to make it public until it is ready.
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/1469002358850584781" />
+</div>
 
 <br>
 
