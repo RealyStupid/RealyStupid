@@ -1,8 +1,8 @@
 <h1 align="center">~~~~~~~~~~~| Hello World! |~~~~~~~~~~~</h1>
 
 <h3 align="center">
-I'm RealyStupid! A solo Discord bot developer passionate about building scalable, modular, and efficient systems.  
-I love diving deep into technical challenges, designing clean architectures, and pushing Discord.py to its limits.
+I'm RealyStupid! A solo Discord bot developer and Unity game developer passionate about building scalable, modular, and efficient systems.  
+I love diving deep into technical challenges, designing clean architectures, and pushing both Discord.py and Unity/C# to their limits.
 </h3>
 
 <br>
@@ -15,6 +15,10 @@ I love diving deep into technical challenges, designing clean architectures, and
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bot logo" />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity" />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
 </div>
 
 <br>
@@ -22,10 +26,12 @@ I love diving deep into technical challenges, designing clean architectures, and
 <h2 align="center">About Me</h2>
 
 - Solo Discord bot developer  
+- Unity game developer  
+- Generalist programmer who loves learning new systems  
 - Obsessed with modular architecture and clean code  
 - Experienced with advanced syncing systems  
-- Passionate about building large-scale, community-driven bots  
-- Always open to collaborating on ambitious Discord projects  
+- Passionate about building large-scale bots  
+- Always open to collaborating on ambitious Discord or game dev projects  
 
 <br>
 
@@ -43,9 +49,9 @@ I love diving deep into technical challenges, designing clean architectures, and
 
 <br>
 
-**The Everything Bot**  
+**All In One Bot**  
 A modular Discord bot built around a custom command‑sync engine that gives developers full control over how features are organized and deployed.  
-Each feature is packaged as an independent module, allowing servers to enable or disable functionality dynamically without touching the core codebase.
+utilizing a custom API, each feature is packaged as an independent module, allowing servers to enable or disable functionality dynamically without touching the core codebase.
 
 <br>
 
@@ -55,7 +61,14 @@ Each feature is packaged as an independent module, allowing servers to enable or
 
 <h2 align="center">What I'm Working On</h2>
 
-Currently working on an "All-in-One Bot". It is a private repository and cannot be found at the moment. There is no plan right now to make it public until it is ready.
+Currently working nothing but you still might see me active from time to time.
+<br>
+
+<h3 align="center">Game Dev Side Projects</h3>
+
+<p align="center">
+I also develop small Unity games and gameplay systems. Focusing on smooth mechanics, responsive controls, and clean, modular C# architecture.
+</p>
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1469002358850584781" />
@@ -65,15 +78,17 @@ Currently working on an "All-in-One Bot". It is a private repository and cannot 
 
 <h2 align="center">Skills, Expertise & Tools</h2>
 
-### **Core Skills**
+### <strong>Core Skills</strong>
 - Writing clean, readable, maintainable code  
-- Designing scalable bot architectures  
-- Building advanced syncing and automation systems  
+- Designing scalable bot architectures
+- Unity gameplay programming (C#)  
+- Creating smooth, responsive mechanics  
+- Generalist problem‑solver across multiple domains  
 - Growing and managing communities  
 
-### **Tech I Use**
+### <strong>Tech I Use</strong>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,discord,bots,git,github,visualstudio,unity,cs" />
 </div>
 
 <br>
@@ -88,10 +103,11 @@ Currently working on an "All-in-One Bot". It is a private repository and cannot 
 
 <h2 align="center">Tech Stack Overview</h2>
 
-- **Python** — Main language for all bot development  
-- **Git & GitHub** - Version control, CI/CD, automation  
-- **Discord.py** - Core framework for bot creation  
-- **SQlite and AIOSQlite** - Some databases
+- <strong>Python</strong> — Main language for all bot development  
+- <strong>C# & Unity</strong> — Gameplay systems, mechanics, and tools  
+- <strong>Git & GitHub</strong> — Version control, CI/CD, automation  
+- <strong>Discord.py</strong> — Core framework for bot creation  
+- <strong>SQLite & AIOSQLite</strong> — Lightweight database solutions  
 
 <br>
 
