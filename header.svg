@@ -1,44 +1,23 @@
-<svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: "Segoe UI", sans-serif;
-      fill: white;
-    }
-    .title {
-      font-size: 48px;
-      font-weight: 600;
-    }
-    .subtitle {
-      font-size: 22px;
-      fill: #cccccc;
-    }
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-    @keyframes blink {
-      50% { border-color: transparent }
-    }
-    .typing {
-      width: 0;
-      overflow: hidden;
-      white-space: nowrap;
-      border-right: 3px solid white;
-      animation: typing 2.5s steps(30, end), blink .75s step-end infinite;
-    }
-  </style>
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Title -->
-  <foreignObject x="0" y="20" width="900" height="60">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="text title typing">
-      RealyStupid
-    </div>
-  </foreignObject>
+  <!-- Background (optional, remove if your README has a white background) -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- Title Text -->
+  <text x="50%" y="45%" text-anchor="middle" font-family="Segoe UI" font-size="48" fill="white">
+    RealyStupid
+    <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="2s" fill="freeze"/>
+  </text>
 
   <!-- Subtitle -->
-  <foreignObject x="0" y="80" width="900" height="60">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="text subtitle typing" style="animation-delay: 2.6s;">
-      Discord Bot Developer & Unity Programmer
-    </div>
-  </foreignObject>
+  <text x="50%" y="80%" text-anchor="middle" font-family="Segoe UI" font-size="22" fill="#cccccc">
+    Discord Bot Developer & Unity Programmer
+    <animate attributeName="stroke-dasharray" from="0,400" to="400,0" dur="2s" begin="2s" fill="freeze"/>
+  </text>
+
+  <!-- Cursor -->
+  <rect x="50%" y="50%" width="2" height="40" fill="white">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+
 </svg>
