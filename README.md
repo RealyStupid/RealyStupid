@@ -1,4 +1,6 @@
-<h1 align="center">~~~~~~~~~~~| Hello World! |~~~~~~~~~~~</h1>
+<p align="center">
+  <img src="header.svg" width="100%" />
+</p>
 
 <h3 align="center">
 I'm RealyStupid! A solo Discord bot developer and Unity game developer passionate about building scalable, modular, and efficient systems.  
@@ -51,7 +53,7 @@ I love diving deep into technical challenges, designing clean architectures, and
 
 **All In One Bot**  
 A modular Discord bot built around a custom command‑sync engine that gives developers full control over how features are organized and deployed.  
-utilizing a custom API, each feature is packaged as an independent module, allowing servers to enable or disable functionality dynamically without touching the core codebase.
+Utilizing a custom API, each feature is packaged as an independent module, allowing servers to enable or disable functionality dynamically without touching the core codebase.
 
 <br>
 
@@ -61,7 +63,7 @@ utilizing a custom API, each feature is packaged as an independent module, allow
 
 <h2 align="center">What I'm Working On</h2>
 
-Currently working nothing but you still might see me active from time to time.
+Currently working on nothing major, but you still might see me active from time to time.  
 <br>
 
 <h3 align="center">Game Dev Side Projects</h3>
@@ -80,7 +82,7 @@ I also develop small Unity games and gameplay systems. Focusing on smooth mechan
 
 ### <strong>Core Skills</strong>
 - Writing clean, readable, maintainable code  
-- Designing scalable bot architectures
+- Designing scalable bot architectures  
 - Unity gameplay programming (C#)  
 - Creating smooth, responsive mechanics  
 - Generalist problem‑solver across multiple domains  
