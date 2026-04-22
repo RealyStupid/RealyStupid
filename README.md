@@ -1,9 +1,17 @@
 <h1 align="center">Hello World, I'm RealyStupid</h1>
 
 <h3 align="center">
-Solo Discord bot developer and Unity game developer focused on scalable architecture, modular systems, and clean, maintainable code.  
-I enjoy solving complex problems and pushing Discord.py and Unity/C# to their limits.
+Solo Discord bot developer and Unity gameplay programmer focused on:
 </h3>
+
+<p align="center">
+  • Scalable, modular architecture<br>
+  • Clean, maintainable codebases<br>
+  • High‑performance Discord bots<br>
+  • Robust gameplay systems in Unity<br>
+  • Practical automation with Bash & Linux<br>
+  • Learning and applying cybersecurity concepts
+</p>
 
 <br>
 
@@ -21,19 +29,15 @@ I enjoy solving complex problems and pushing Discord.py and Unity/C# to their li
   <img src="https://skillicons.dev/icons?i=cs" height="40" />
 </div>
 
-<br>
-
 ---
 
 ## About Me
 
 - Solo Discord bot developer  
 - Unity gameplay programmer  
-- Generalist who enjoys learning new systems  
-- Focused on modular architecture and clean code  
-- Experienced with advanced syncing systems  
-- Passionate about large‑scale bot design  
-- Open to ambitious Discord or game development collaborations  
+- Focused on modular, scalable architecture 
+- Actively learning cybersecurity
+- Working on a RootThisBox discord bot along with a few other people
 
 ---
 
@@ -48,8 +52,8 @@ I enjoy solving complex problems and pushing Discord.py and Unity/C# to their li
 ## Featured Project
 
 ### All‑In‑One Bot
-A modular Discord bot built around a custom command‑sync engine that gives developers full control over how features are organized and deployed.  
-Each feature is packaged as an independent module, allowing servers to enable or disable functionality dynamically without modifying the core codebase.
+A modular Discord bot built around a custom command‑sync engine.  
+Each feature is packaged as an independent module, allowing servers to enable or disable functionality without touching the core codebase.
 
 ---
 
@@ -61,10 +65,9 @@ Each feature is packaged as an independent module, allowing servers to enable or
 
 ## What I'm Working On
 
-Currently not working on any major projects, but you may still see activity from time to time.
-
-### Game Development Side Projects
-I also build small Unity games and gameplay systems, focusing on smooth mechanics, responsive controls, and clean, modular C# architecture.
+- Contributing to RootThisBox.org: https://github.com/Root-This-Box/RootTheBox-bot  
+- Teaching myself cybersecurity  
+- Building small Unity gameplay systems with clean, modular C# architecture  
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1469002358850584781" />
@@ -74,40 +77,48 @@ I also build small Unity games and gameplay systems, focusing on smooth mechanic
 
 # Skill Matrix
 
-A structured overview of my core strengths and technical capabilities.
+A structured overview of my core strengths.
 
 ### Programming & Architecture
 | Skill | Level | Notes |
 |-------|--------|-------|
-| Python | Advanced | Primary language for all bot development |
-| C# | Intermediate | Unity gameplay systems and tools |
-| Modular Architecture | Advanced | Designing scalable, extensible systems |
-| Asynchronous Programming | Advanced | Heavy use in Discord.py and bot systems |
-| Database Design | Intermediate | SQLite, AIOSQLite, lightweight data models |
+| Python | Advanced | Primary language for bot development |
+| C# | Intermediate | Unity gameplay systems |
+| Bash | Intermediate | Scripting, automation |
+| Linux | Proficient | Daily driver, dev environment |
+| Modular Architecture | Advanced | Scalable, extensible systems |
+| Asynchronous Programming | Advanced | Heavy use in Discord.py |
+| Database Design | Intermediate | SQLite, AIOSQLite |
 
 ### Discord Bot Development
 | Skill | Level | Notes |
 |-------|--------|-------|
 | Discord.py | Advanced | Core framework expertise |
-| Command Sync Systems | Advanced | Custom sync engines and modular loaders |
+| Command Sync Systems | Advanced | Custom sync engines |
 | Event‑Driven Systems | Advanced | High‑performance event handling |
-| Permission Systems | Intermediate | Role‑based and dynamic permission logic |
-| API Integration | Intermediate | External APIs, webhooks, and automation |
+| Permission Systems | Intermediate | Role‑based logic |
+| API Integration | Intermediate | Webhooks, automation |
 
 ### Game Development (Unity)
 | Skill | Level | Notes |
 |-------|--------|-------|
-| Gameplay Programming | Intermediate | Movement, mechanics, interactions |
-| C# Architecture | Intermediate | Clean, modular code structure |
-| Input Systems | Intermediate | Responsive, smooth controls |
-| Unity Tools | Intermediate | Editor tools, utilities, workflow improvements |
+| Gameplay Programming | Intermediate | Movement, mechanics |
+| C# Architecture | Intermediate | Clean, modular systems |
+| Input Systems | Intermediate | Responsive controls |
+| Unity Tools | Intermediate | Editor utilities |
+
+### Cybersecurity & Platforms
+| Skill | Level | Notes |
+|-------|--------|-------|
+| Cybersecurity | Learning | pwn.collage, CTF‑style challenges |
+| RootTheBox‑bot | Contributor | Working on Discord bot for RootThisBox.org |
 
 ### Tools & Workflow
 | Tool | Level | Notes |
 |-------|--------|-------|
-| Git & GitHub | Advanced | Version control, CI/CD, automation |
-| Visual Studio | Advanced | Main IDE for C# and Unity |
-| VS Code | Advanced | Python development environment |
+| Git & GitHub | Advanced | Version control, CI/CD |
+| Visual Studio | Advanced | C# & Unity |
+| VS Code | Advanced | Python development |
 | Project Organization | Advanced | Clean repos, structured modules |
 
 ---
@@ -122,11 +133,13 @@ A structured overview of my core strengths and technical capabilities.
 
 ## Tech Stack Overview
 
-- Python — Main language for bot development  
-- C# and Unity — Gameplay systems and tools  
-- Git and GitHub — Version control, CI/CD, automation  
-- Discord.py — Core framework for bot creation  
-- SQLite and AIOSQLite — Lightweight database solutions  
+- Python — Bot development  
+- C# & Unity — Gameplay systems  
+- Git & GitHub — CI/CD, automation  
+- Discord.py — Core framework  
+- SQLite / AIOSQLite — Lightweight data storage  
+- Bash & Linux — Scripting, tooling, workflow  
+- Cybersecurity — Learning through practical projects (RootThisBox, bots, challenges)  
 
 ---
 
@@ -143,5 +156,3 @@ A structured overview of my core strengths and technical capabilities.
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="24" />
   </a>
 </div>
-
-<br>
