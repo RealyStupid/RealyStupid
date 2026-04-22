@@ -66,8 +66,7 @@ Each feature is packaged as an independent module, allowing servers to enable or
 ## What I'm Working On
 
 - Contributing to RootThisBox.org: https://github.com/Root-This-Box/RootTheBox-bot  
-- Teaching myself cybersecurity  
-- Building small Unity gameplay systems with clean, modular C# architecture  
+- Teaching myself cybersecurity 
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1469002358850584781" />
