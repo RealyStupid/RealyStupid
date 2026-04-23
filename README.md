@@ -127,31 +127,3 @@ A structured overview of my core strengths.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealyStupid&radius=16&theme=gotham&area=true&order=5" height="300" />
 </div>
-
----
-
-## Tech Stack Overview
-
-- Python — Bot development  
-- C# & Unity — Gameplay systems  
-- Git & GitHub — CI/CD, automation  
-- Discord.py — Core framework  
-- SQLite / AIOSQLite — Lightweight data storage  
-- Bash & Linux — Scripting, tooling, workflow  
-- Cybersecurity — Learning through practical projects (RootThisBox, bots, challenges)  
-
----
-
-## Connect With Me
-
-<div align="center">
-  <a href="https://discord.gg/bsyHm2aYcc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="24" />
-  </a>
-  <a href="https://www.youtube.com/@THE-DIRT-CAVE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="24" />
-  </a>
-  <a href="https://www.twitch.tv/the_grass_society" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="24" />
-  </a>
-</div>
