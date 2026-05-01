@@ -112,7 +112,7 @@ A structured overview of my core strengths.
 | Skill | Level | Notes |
 |-------|--------|-------|
 | Cybersecurity | Learning | pwn.collage, CTF‑style challenges |
-| RootTheBox‑bot | Contributor | Working on Discord bot for RootThisBox.org |
+| RootTheBox‑bot | Contributor | Working on Discord bot and maintainer of RootThisBox.org |
 
 ### Tools & Workflow
 | Tool | Level | Notes |
@@ -123,7 +123,10 @@ A structured overview of my core strengths.
 | Project Organization | Advanced | Clean repos, structured modules |
 
 ---
+## Contacts:
+You can contact me via my email: ther3al.re4ly.stupid@gmail.com
 
+---
 ## Activity Graph
 
 <div align="center">
