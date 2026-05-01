@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm RealyStupid</h1>
 
 <h3 align="center">
-Solo Discord bot developer and Unity gameplay programmer focused on:
+Solo dev mainly working on:
 </h3>
 
 <p align="center">
@@ -10,7 +10,8 @@ Solo Discord bot developer and Unity gameplay programmer focused on:
   • High‑performance Discord bots<br>
   • Robust gameplay systems in Unity<br>
   • Practical automation with Bash & Linux<br>
-  • Learning and applying cybersecurity concepts
+  • Learning and applying cybersecurity concepts<br>
+  • Contributing to RootThisBox with developing discord bot and the main site
 </p>
 
 <br>
@@ -37,7 +38,7 @@ Solo Discord bot developer and Unity gameplay programmer focused on:
 - Unity gameplay programmer  
 - Focused on modular, scalable architecture 
 - Actively learning cybersecurity
-- Working on a RootThisBox discord bot along with a few other people
+- Working on a RootThisBox discord bot along contributing to the main site
 
 ---
 
@@ -65,7 +66,8 @@ Each feature is packaged as an independent module, allowing servers to enable or
 
 ## What I'm Working On
 
-- Contributing to RootThisBox.org: https://github.com/Root-This-Box/RootTheBox-bot  
+- Contributing to RootThisBox.org by creating a discord bot: https://github.com/Root-This-Box/RootTheBox-bot
+- Contributing to RootThisBox.org by assisting on the main site: https://github.com/Root-This-Box/rootthisbox
 - Teaching myself cybersecurity 
 
 <div align="center">
