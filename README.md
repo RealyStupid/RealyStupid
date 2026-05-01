@@ -126,6 +126,8 @@ A structured overview of my core strengths.
 ## Contacts:
 You can contact me via my email: ther3al.re4ly.stupid@gmail.com
 
+Or contact me directly on discord: https://discord.com/users/1469002358850584781
+
 ---
 ## Activity Graph
 
