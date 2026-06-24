@@ -40,10 +40,6 @@ Solo dev mainly working on:
 - Actively learning cybersecurity
 - Working on a RootThisBox discord bot along contributing to the main site
 
----
-
-## Account Overview
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RealyStupid&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="150" />
 </div>
@@ -55,8 +51,6 @@ Solo dev mainly working on:
 ### All‑In‑One Bot
 A modular Discord bot built around a custom command‑sync engine.  
 Each feature is packaged as an independent module, allowing servers to enable or disable functionality without touching the core codebase.
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RealyStupid/RealyStupid/output/snake.svg" alt="Snake animation" />
@@ -127,9 +121,6 @@ A structured overview of my core strengths.
 You can contact me via my email: ther3al.re4ly.stupid@gmail.com
 
 Or contact me directly on discord: https://discord.com/users/1469002358850584781
-
----
-## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealyStupid&radius=16&theme=gotham&area=true&order=5" height="300" />
