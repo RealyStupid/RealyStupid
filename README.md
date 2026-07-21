@@ -1,5 +1,21 @@
 <h1 align="center">Hello World, I'm RealyStupid</h1>
 
+<h3 align="center">
+Solo dev mainly working on:
+</h3>
+
+<p align="center">
+  • Scalable, modular architecture<br>
+  • Clean, maintainable codebases<br>
+  • High‑performance Discord bots<br>
+  • Robust gameplay systems in Unity<br>
+  • Practical automation with Bash & Linux<br>
+  • Learning and applying cybersecurity concepts<br>
+  • Contributing to RootThisBox with developing discord bot and the main site
+</p>
+
+<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="40" />
@@ -18,7 +34,7 @@
 
 ## About Me
 
-- Solo developer
+- Solo Discord bot developer  
 - Unity gameplay programmer  
 - Focused on modular, scalable architecture 
 - Actively learning cybersecurity
@@ -63,7 +79,6 @@ A structured overview of my core strengths.
 |-------|--------|-------|
 | Python | Advanced | Primary language for bot development |
 | C# | Intermediate | Unity gameplay systems |
-| C/C++ | Beginner | Learning the language |
 | Bash | Intermediate | Scripting, automation |
 | Linux | Proficient | Daily driver, dev environment |
 | Modular Architecture | Advanced | Scalable, extensible systems |
