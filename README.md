@@ -60,8 +60,8 @@ Each feature is packaged as an independent module, allowing servers to enable or
 
 ## What I'm Working On
 
-- Contributing to RootThisBox.org by creating a discord bot: https://github.com/Root-This-Box/RootTheBox-bot
-- Contributing to RootThisBox.org by assisting on the main site: https://github.com/Root-This-Box/rootthisbox
+- Contributing to RootThisBox.org by creating a discord bot!
+- Contributing to RootThisBox.org by assisting on the main site!
 - Teaching myself cybersecurity 
 
 <div align="center">
