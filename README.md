@@ -33,9 +33,8 @@ Solo dev mainly working on:
 ---
 
 ## About Me
-
+Hello, im a 17 year old student learning cyber security and looking for opportunities to grow my skills and become a better developer!
 - Solo Discord bot developer  
-- Unity gameplay programmer  
 - Focused on modular, scalable architecture 
 - Actively learning cybersecurity
 - Working on a RootThisBox discord bot along contributing to the main site
