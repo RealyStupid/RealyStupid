@@ -11,7 +11,7 @@ Solo dev mainly working on:
   • Robust gameplay systems in Unity<br>
   • Practical automation with Bash & Linux<br>
   • Learning and applying cybersecurity concepts<br>
-  • Contributing to RootThisBox with developing discord bot and the main site
+  • Contributing to RootThisBox and developing their discord bot
 </p>
 
 <br>
