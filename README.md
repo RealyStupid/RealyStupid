@@ -5,10 +5,9 @@ Solo dev mainly working on:
 </h3>
 
 <p align="center">
-  • Scalable, modular architecture<br>
-  • Clean, maintainable codebases<br>
+  • https://realystupid.is-a.dev<br>
   • High‑performance Discord bots<br>
-  • Robust gameplay systems in Unity<br>
+  • Can building full stack Websites!<br>
   • Practical automation with Bash & Linux<br>
   • Learning and applying cybersecurity concepts<br>
   • Contributing to RootThisBox and developing their discord bot
@@ -33,7 +32,7 @@ Solo dev mainly working on:
 ---
 
 ## About Me
-- Solo Discord bot developer  
+- Solo Dev that has experience working in teams
 - Focused on modular, scalable architecture 
 - Actively learning cybersecurity
 - Working on a RootThisBox discord bot along contributing to the main site
@@ -50,6 +49,9 @@ Solo dev mainly working on:
 A modular Discord bot built around a custom command‑sync engine.  
 Each feature is packaged as an independent module, allowing servers to enable or disable functionality without touching the core codebase.
 
+### Anime Watcher
+My first attempt at making my own full stack website centered around the creation of shows, seasons and episodes and streaming them for everyone!
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/RealyStupid/RealyStupid/output/snake.svg" alt="Snake animation" />
 </div>
@@ -60,7 +62,7 @@ Each feature is packaged as an independent module, allowing servers to enable or
 
 - Contributing to RootThisBox.org by creating a discord bot!
 - Contributing to RootThisBox.org by assisting on the main site!
-- Teaching myself cybersecurity 
+- Teaching myself cybersecurity and penetration testing.
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1469002358850584781" />
@@ -75,13 +77,12 @@ A structured overview of my core strengths.
 ### Programming & Architecture
 | Skill | Level | Notes |
 |-------|--------|-------|
-| Python | Advanced | Primary language for bot development |
-| C# | Intermediate | Unity gameplay systems |
+| Python | Advanced | Primary language for development |
 | Bash | Intermediate | Scripting, automation |
 | Linux | Proficient | Daily driver, dev environment |
 | Modular Architecture | Advanced | Scalable, extensible systems |
-| Asynchronous Programming | Advanced | Heavy use in Discord.py |
-| Database Design | Intermediate | SQLite, AIOSQLite |
+| Asynchronous Programming | Advanced | Heavy use in Discord.py, websites and tools I create for projects |
+| Database Design | Intermediate | SQLite, AIOSQLite, SQLcipher, PostgreSQL, and NeonDB |
 
 ### Discord Bot Development
 | Skill | Level | Notes |
@@ -92,19 +93,12 @@ A structured overview of my core strengths.
 | Permission Systems | Intermediate | Role‑based logic |
 | API Integration | Intermediate | Webhooks, automation |
 
-### Game Development (Unity)
-| Skill | Level | Notes |
-|-------|--------|-------|
-| Gameplay Programming | Intermediate | Movement, mechanics |
-| C# Architecture | Intermediate | Clean, modular systems |
-| Input Systems | Intermediate | Responsive controls |
-| Unity Tools | Intermediate | Editor utilities |
-
 ### Cybersecurity & Platforms
 | Skill | Level | Notes |
 |-------|--------|-------|
 | Cybersecurity | Learning | pwn.collage, CTF‑style challenges |
 | RootTheBox‑bot | Contributor | Working on Discord bot and maintainer of RootThisBox.org |
+| Vulmenerable machines| actively presuing | Working on enhancing my skills with hands on penetration testing |
 
 ### Tools & Workflow
 | Tool | Level | Notes |
